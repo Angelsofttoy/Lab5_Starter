@@ -10,9 +10,7 @@ A: Yes, because this is a specific part of the function/part of the entire code,
 
 A: In this case no, because interactions between component is something that could not be tested through uni test.  
 
+[expose](https://angelsofttoy.github.io/Lab5_Starter/expose.html)
 
-### expose:
-https://angelsofttoy.github.io/lab5_starter/expose.html
+[explore](https://angelsofttoy.github.io/Lab5_Starter/expose.html)
 
-### explore:
-https://angelsofttoy.github.io/lab5_starter/explore.html
