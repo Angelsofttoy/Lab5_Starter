@@ -12,5 +12,5 @@ A: In this case no, because interactions between component is something that cou
 
 [expose](https://angelsofttoy.github.io/Lab5_Starter/expose.html)
 
-[explore](https://angelsofttoy.github.io/Lab5_Starter/expose.html)
+[explore](https://angelsofttoy.github.io/Lab5_Starter/explore.html)
 
